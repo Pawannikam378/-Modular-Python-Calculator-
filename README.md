@@ -56,5 +56,3 @@ calculator_project/
 │
 └── README.md
 ```
-
----
